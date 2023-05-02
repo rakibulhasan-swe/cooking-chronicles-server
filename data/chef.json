@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Alice Smith",
+      "years_of_experience": 10,
+      "numbers_of_recipe": 50,
+      "likes": 1000
+    },
+    {
+      "id": 2,
+      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Bob Johnson",
+      "years_of_experience": 8,
+      "numbers_of_recipe": 40,
+      "likes": 800
+    },
+    {
+      "id": 3,
+      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Charlie Brown",
+      "years_of_experience": 15,
+      "numbers_of_recipe": 70,
+      "likes": 1200
+    },
+    {
+      "id": 4,
+      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Diana Lee",
+      "years_of_experience": 12,
+      "numbers_of_recipe": 60,
+      "likes": 1500
+    },
+    {
+      "id": 5,
+      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Eva Chen",
+      "years_of_experience": 5,
+      "numbers_of_recipe": 30,
+      "likes": 500
+    },
+    {
+      "id": 6,
+      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Frank Wang",
+      "years_of_experience": 3,
+      "numbers_of_recipe": 20,
+      "likes": 300
+    }
+  ]
+  

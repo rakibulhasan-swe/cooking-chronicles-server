@@ -1,0 +1,166 @@
+[
+    {
+      "id": "1",
+      "chef_id": "1",
+      "recipe_id": "1",
+      "recipe_name": "Beef Bhuna",
+      "ingredients": ["beef", "onion", "garlic", "ginger", "chili powder", "turmeric", "cumin", "coriander powder", "garam masala", "salt", "oil", "water"],
+      "cooking_method": "Cook sliced onion, garlic, and ginger in oil until golden brown. Add chili powder, turmeric, cumin, coriander powder, and garam masala. Add the beef and cook for 10-15 minutes. Add water and simmer until the beef is tender. Season with salt and serve with rice or naan.",
+      "rating": "4.7"
+    },
+    {
+      "id": "2",
+      "chef_id": "1",
+      "recipe_id": "2",
+      "recipe_name": "Mutton Tehari",
+      "ingredients": ["mutton", "basmati rice", "onion", "garlic", "ginger", "green chili", "yogurt", "bay leaves", "cinnamon", "cardamom", "cloves", "coriander leaves", "salt", "ghee", "water"],
+      "cooking_method": "Fry sliced onion in ghee until golden brown. Add garlic, ginger, and green chili. Add mutton and fry for 10-15 minutes. Add yogurt, bay leaves, cinnamon, cardamom, cloves, and water. Cook until the mutton is tender. Cook basmati rice separately with salt and water. Layer the rice and mutton in a pot, and cook on low heat for 10-15 minutes. Garnish with coriander leaves.",
+      "rating": "4.6"
+    },
+    {
+      "id": "3",
+      "chef_id": "1",
+      "recipe_id": "3",
+      "recipe_name": "Prawn Bhorta",
+      "ingredients": ["prawns", "onion", "garlic", "ginger", "green chili", "mustard oil", "coriander leaves", "lemon juice", "salt"],
+      "cooking_method": "Fry prawns in mustard oil until cooked. Fry sliced onion, garlic, ginger, and green chili. Mash the prawns with the fried ingredients. Add coriander leaves, lemon juice, and salt. Mix well and serve with rice or naan.",
+      "rating": "4.9"
+    },
+    {
+      "id": "4",
+      "chef_id": "2",
+      "recipe_id": "4",
+      "recipe_name": "Chicken Korma",
+      "ingredients": ["chicken", "yogurt", "onion", "garlic", "ginger", "green chili", "ghee", "bay leaves", "cinnamon", "cardamom", "cloves", "coriander powder", "cumin powder", "turmeric", "salt", "water", "cashews"],
+      "cooking_method": "Marinate chicken with yogurt, garlic, ginger, green chili, coriander powder, cumin powder, turmeric, and salt. Fry sliced onion in ghee until golden brown. Add bay leaves, cinnamon, cardamom, cloves, and cashews. Add the marinated chicken and fry for 10-15 minutes. Add water and cook until the chicken is tender. Garnish with coriander leaves.",
+      "rating": "4.8"
+    },
+    {
+        "id": "5",
+        "chef_id": "2",
+        "recipe_id": "5",
+        "recipe_name": "Fish Kalia",
+        "ingredients": ["fish", "onion", "garlic", "ginger", "green chili", "yogurt", "tomato", "coriander powder", "cumin powder", "turmeric", "chili powder", "garam masala", "salt", "oil", "water"],
+        "cooking_method": "Fry sliced onion, garlic, ginger, and green chili in oil until golden brown. Add coriander powder, cumin powder, turmeric, chili powder, and garam masala. Add yogurt and chopped tomato. Fry for a few minutes. Add fish and water. Cook until the fish is tender. Season with salt and serve with rice or naan.",
+        "rating": "4.5"
+      },
+      {
+        "id": "6",
+        "chef_id": "2",
+        "recipe_id": "6",
+        "recipe_name": "Beef Rezala",
+        "ingredients": ["beef", "onion", "garlic", "ginger", "green chili", "yogurt", "bay leaves", "cinnamon", "cardamom", "cloves", "coriander powder", "cumin powder", "turmeric", "salt", "oil", "water"],
+        "cooking_method": "Fry sliced onion, garlic, ginger, and green chili in oil until golden brown. Add coriander powder, cumin powder, turmeric, and salt. Add yogurt and cook until the oil separates. Add beef, bay leaves, cinnamon, cardamom, and cloves. Fry for a few minutes. Add water and cook until the beef is tender. Garnish with coriander leaves.",
+        "rating": "4.6"
+      },
+      {
+        "id": "7",
+        "chef_id": "3",
+        "recipe_id": "7",
+        "recipe_name": "Shorshe Ilish",
+        "ingredients": ["hilsa fish", "mustard oil", "mustard paste", "onion", "garlic", "green chili", "turmeric", "salt", "water"],
+        "cooking_method": "Marinate hilsa fish with salt and turmeric. Fry the fish in mustard oil until golden brown. Fry sliced onion, garlic, and green chili. Add mustard paste and fry for a few minutes. Add water and bring to a boil. Add the fried fish and cook for 5-10 minutes. Serve with rice.",
+        "rating": "4.9"
+      },
+      {
+        "id": "8",
+        "chef_id": "3",
+        "recipe_id": "8",
+        "recipe_name": "Lau Ghanto",
+        "ingredients": ["bottle gourd", "shrimp", "onion", "garlic", "ginger", "green chili", "coriander powder", "cumin powder", "turmeric", "chili powder", "ghee", "salt", "water"],
+        "cooking_method": "Peel and chop bottle gourd. Fry sliced onion, garlic, ginger, and green chili in ghee until golden brown. Add coriander powder, cumin powder, turmeric, and chili powder. Add the chopped bottle gourd and fry for a few minutes. Add water and cook until the bottle gourd is tender. Add shrimp and cook for a few more minutes. Season with salt and serve with rice.",
+        "rating": "4.4"
+      },
+      {
+        "id": "9",
+        "chef_id": "3",
+        "recipe_id": "9",
+        "recipe_name": "Chicken Bhuna",
+        "ingredients": ["chicken", "onion", "garlic", "ginger", "green chili", "tomato", "coriander powder", "cumin powder", "turmeric", "chili powder", "garam masala", "salt", "oil", "water"],
+        "cooking_method": "Fry sliced onion, garlic, ginger, and green chili in oil until golden brown. Add coriander powder, cumin powder, turmeric, chili powder, and garam masala. Add chopped tomato and fry for a few minutes. Add chicken and water. Cook until the chicken is tender. Season with salt and garnish with coriander leaves.",
+        "rating": "4.7"
+      },
+      {
+        "id": "10",
+        "chef_id": "4",
+        "recipe_id": "10",
+        "recipe_name": "Chingri Malaikari",
+        "ingredients": ["shrimp", "coconut milk", "onion", "garlic", "ginger", "green chili", "coriander powder", "cumin powder", "turmeric", "chili powder", "ghee", "salt", "water"],
+        "cooking_method": "Fry sliced onion, garlic, ginger, and green chili in ghee until golden brown. Add coriander powder, cumin powder, turmeric, chili powder, and salt. Add coconut milk and cook until the oil separates. Add shrimp and cook for a few more minutes. Garnish with coriander leaves and serve with rice.",
+        "rating": "4.8"
+      },
+      {
+        "id": "11",
+        "chef_id": "4",
+        "recipe_id": "11",
+        "recipe_name": "Mutton Tehari",
+        "ingredients": ["mutton", "basmati rice", "onion", "garlic", "ginger", "green chili", "cinnamon", "cardamom", "cloves", "coriander powder", "cumin powder", "turmeric", "salt", "oil", "water"],
+        "cooking_method": "Fry sliced onion, garlic, ginger, and green chili in oil until golden brown. Add coriander powder, cumin powder, turmeric, and salt. Add mutton, cinnamon, cardamom, and cloves. Fry for a few minutes. Add water and cook until the mutton is tender. Boil the rice separately. Mix the boiled rice with the mutton gravy. Cover and cook for a few minutes. Serve hot.",
+        "rating": "4.6"
+      },
+      {
+        "id": "12",
+        "chef_id": "4",
+        "recipe_id": "12",
+        "recipe_name": "Chitol Macher Muitha",
+        "ingredients": ["chitol fish", "potato", "onion", "garlic", "ginger", "green chili", "coriander powder", "cumin powder", "turmeric", "chili powder", "ghee", "salt", "water"],
+        "cooking_method": "Clean and mince chitol fish. Boil and mash potatoes. Fry sliced onion, garlic, ginger, and green chili in ghee until golden brown. Add coriander powder, cumin powder, turmeric, chili powder, and salt. Add the minced fish and mashed potatoes. Mix well and shape into balls. Boil water in a pan and add the fish balls. Cook until the fish balls are cooked",
+        "rating": "4.5"
+      },
+      {
+        "id": "13",
+        "chef_id": "5",
+        "recipe_id": "13",
+        "recipe_name": "Pitha",
+        "ingredients": ["rice flour", "coconut", "molasses", "milk", "cardamom"],
+        "cooking_method": "Mix rice flour and hot water to make a dough. Make small balls from the dough. Roll the balls into thin flatbreads. Fill with grated coconut and molasses. Fold and seal the edges. Boil milk with cardamom. Add the filled flatbreads and cook until they float to the surface.",
+        "rating": "4.9"
+      },
+      {
+        "id": "14",
+        "chef_id": "5",
+        "recipe_id": "14",
+        "recipe_name": "Beguni",
+        "ingredients": ["eggplant", "chickpea flour", "turmeric", "chili powder", "salt", "water", "oil"],
+        "cooking_method": "Slice eggplants and sprinkle salt on them. Leave them for a while. Mix chickpea flour, turmeric, chili powder, salt, and water to make a batter. Dip the eggplant slices in the batter. Fry the battered eggplant slices in hot oil until golden brown. Serve hot.",
+        "rating": "4.5"
+      },
+      {
+        "id": "15",
+        "chef_id": "5",
+        "recipe_id": "15",
+        "recipe_name": "Luchi",
+        "ingredients": ["wheat flour", "oil", "salt", "water"],
+        "cooking_method": "Mix wheat flour, oil, salt, and water to make a dough. Make small balls from the dough. Roll the balls into thin flatbreads. Fry the flatbreads in hot oil until they puff up and turn golden brown. Serve hot with curry or chutney.",
+        "rating": "4.7"
+      },
+      {
+        "id": "16",
+        "chef_id": "6",
+        "recipe_id": "16",
+        "recipe_name": "Khichuri",
+        "ingredients": ["rice", "split yellow lentil", "onion", "garlic", "ginger", "green chili", "cinnamon", "cardamom", "cloves", "turmeric", "ghee", "salt", "water"],
+        "cooking_method": "Soak rice and lentils separately for a while. Fry sliced onion, garlic, ginger, and green chili in ghee until golden brown. Add cinnamon, cardamom, and cloves. Fry for a few minutes. Add turmeric, salt, and water. Add the soaked rice and lentils. Cook until the mixture is soft and mushy. Serve hot with fried eggplants or beef curry.",
+        "rating": "4.6"
+      },
+      {
+        "id": "17",
+        "chef_id": "6",
+        "recipe_id": "17",
+        "recipe_name": "Prawn Malai Curry",
+        "ingredients": ["prawns", "coconut milk", "onion", "garlic", "ginger", "green chili", "coriander powder", "cumin powder", "turmeric", "ghee", "salt", "water"],
+        "cooking_method": "Fry sliced onion, garlic, ginger, and green chili in ghee until golden brown. Add coriander powder, cumin powder, turmeric, and salt. Add coconut milk and cook until the oil separates. Add prawns and cook for a few more minutes. Garnish with coriander leaves and serve with rice.",
+        "rating": "4.8"
+      },
+      {
+        "id": "18",
+        "chef_id": "6",
+        "recipe_id": "18",
+        "recipe_name": "Mishti Doi",
+        "ingredients": ["milk", "yogurt", "sugar"],
+        "cooking_method": "Boil milk and let it cool down. Mix yogurt and sugar in the milk. Keep it in a warm place to ferment for several hours. The longer it ferments, the sourer it gets. Serve chilled as a dessert.",
+        "rating": "4.9"
+      }
+
+    ]
+  
