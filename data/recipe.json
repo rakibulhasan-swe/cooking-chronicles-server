@@ -130,7 +130,7 @@
         "chef_id": "5",
         "recipe_id": "15",
         "recipe_name": "Luchi",
-        "ingredients": ["wheat flour", "oil", "salt", "water"],
+        "ingredients": ["wheat flour", "Chili", "oil", "salt", "water"],
         "cooking_method": "Mix wheat flour, oil, salt, and water to make a dough. Make small balls from the dough. Roll the balls into thin flatbreads. Fry the flatbreads in hot oil until they puff up and turn golden brown. Serve hot with curry or chutney.",
         "rating": "4.7"
       },
@@ -157,7 +157,7 @@
         "chef_id": "6",
         "recipe_id": "18",
         "recipe_name": "Mishti Doi",
-        "ingredients": ["milk", "yogurt", "sugar"],
+        "ingredients": ["milk", "yogurt", "sugar", "oil", "salt"],
         "cooking_method": "Boil milk and let it cool down. Mix yogurt and sugar in the milk. Keep it in a warm place to ferment for several hours. The longer it ferments, the sourer it gets. Serve chilled as a dessert.",
         "rating": "4.9"
       }
