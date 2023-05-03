@@ -3,6 +3,7 @@
       "id": 1,
       "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "chef_name": "Alice Smith",
+      "desc": "A fiery, award-winning chef known for bold flavors and creative presentation. Specializes in fusion cuisine that blends global flavors with a modern twist.",
       "years_of_experience": 10,
       "numbers_of_recipe": 50,
       "likes": 1000
@@ -11,6 +12,7 @@
       "id": 2,
       "chef_img": "https://plus.unsplash.com/premium_photo-1673830185871-49bb8d6a3d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
       "chef_name": "Bob Johnson",
+      "desc": "A humble yet passionate chef with a focus on simple, rustic dishes that showcase the natural flavors of seasonal ingredients. Believes in sustainable, farm-to-table cooking.",
       "years_of_experience": 8,
       "numbers_of_recipe": 40,
       "likes": 800
@@ -19,6 +21,7 @@
       "id": 3,
       "chef_img": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "chef_name": "Charlie Brown",
+      "desc": "A classically trained French chef who brings elegance and sophistication to every dish. Known for creating beautiful, refined plates that are as pleasing to the eye as they are to the palate.",
       "years_of_experience": 15,
       "numbers_of_recipe": 70,
       "likes": 1200
@@ -27,6 +30,7 @@
       "id": 4,
       "chef_img": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "chef_name": "Diana Lee",
+      "desc": "A down-to-earth chef with a talent for comfort food. Specializes in hearty, stick-to-your-ribs dishes that warm the soul, from slow-cooked stews to classic Southern fare.",
       "years_of_experience": 12,
       "numbers_of_recipe": 60,
       "likes": 1500
@@ -35,6 +39,7 @@
       "id": 5,
       "chef_img": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "chef_name": "Eva Chen",
+      "desc": "A creative, experimental chef who loves to push boundaries and explore new flavors. Always on the lookout for unconventional ingredients and techniques that can take dishes to the next level.",
       "years_of_experience": 5,
       "numbers_of_recipe": 30,
       "likes": 500
@@ -43,6 +48,7 @@
       "id": 6,
       "chef_img": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
       "chef_name": "Frank Wang",
+      "desc": "A health-conscious chef who believes that food should be nourishing as well as delicious. Specializes in plant-based cuisine that emphasizes whole, nutrient-dense ingredients.",
       "years_of_experience": 3,
       "numbers_of_recipe": 20,
       "likes": 300
