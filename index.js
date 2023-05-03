@@ -26,7 +26,7 @@ app.get("/chef/:id", (req, res) => {
 })
 
 // recipe info by chefs id
-app.get("/chef/:id", (req, res) => {
+app.get("/recipe/:id", (req, res) => {
     const id = req.params.id;
     const recipeInfo = recipeData.filter((recipe) => recipe.chef_id == id);
     res.send(recipeInfo);
