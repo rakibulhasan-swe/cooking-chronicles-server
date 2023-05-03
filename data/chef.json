@@ -1,54 +1,54 @@
 [
     {
       "id": 1,
-      "chef_img": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_img": "https://i.ibb.co/j5fqgy5/chef-1.jpg",
       "chef_name": "Alice Smith",
-      "desc": "A fiery, award-winning chef known for bold flavors and creative presentation. Specializes in fusion cuisine that blends global flavors with a modern twist.",
+      "desc": "Chef Alice Smith is a culinary expert with over 10 years of experience in international cuisine. She is known for her impeccable taste and exceptional ability to blend flavors, textures, and colors to create dishes that are not only delicious but also visually appealing.",
       "years_of_experience": 10,
       "numbers_of_recipe": 50,
       "likes": 1000
     },
     {
       "id": 2,
-      "chef_img": "https://plus.unsplash.com/premium_photo-1673830185871-49bb8d6a3d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+      "chef_img": "https://i.ibb.co/kB6xt8n/chef-2.jpg",
       "chef_name": "Bob Johnson",
-      "desc": "A humble yet passionate chef with a focus on simple, rustic dishes that showcase the natural flavors of seasonal ingredients. Believes in sustainable, farm-to-table cooking.",
+      "desc": "Chef Johnson is a master of fusion cuisine, combining elements from different cultures to create unique and memorable dishes. His passion for cooking is evident in every dish he creates, and he has won numerous awards and accolades for his innovative approach to culinary arts.",
       "years_of_experience": 8,
       "numbers_of_recipe": 40,
       "likes": 800
     },
     {
       "id": 3,
-      "chef_img": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "chef_img": "https://i.ibb.co/Jrnq6zc/chef-3.jpg",
       "chef_name": "Charlie Brown",
-      "desc": "A classically trained French chef who brings elegance and sophistication to every dish. Known for creating beautiful, refined plates that are as pleasing to the eye as they are to the palate.",
+      "desc": "Chef Charlie is a Michelin-starred chef with a focus on sustainable cooking. He is known for his inventive use of local and seasonal ingredients, and his commitment to reducing waste and carbon footprint in his kitchen. A creative, experimental chef who loves to push boundaries and explore new flavors.",
       "years_of_experience": 15,
       "numbers_of_recipe": 70,
       "likes": 1200
     },
     {
       "id": 4,
-      "chef_img": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-      "chef_name": "Diana Lee",
-      "desc": "A down-to-earth chef with a talent for comfort food. Specializes in hearty, stick-to-your-ribs dishes that warm the soul, from slow-cooked stews to classic Southern fare.",
+      "chef_img": "https://i.ibb.co/b3FYD3j/chef-4.jpg",
+      "chef_name": "Dane Lee",
+      "desc": "Chef Lee is a pastry chef with a passion for creating intricate and visually stunning desserts. Her expertise in combining flavors and textures has won her acclaim, and her creations are often described as works of art. A creative, experimental chef who loves to push boundaries and explore new flavors.",
       "years_of_experience": 12,
       "numbers_of_recipe": 60,
       "likes": 1500
     },
     {
       "id": 5,
-      "chef_img": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "chef_img": "https://i.ibb.co/DYr2wxx/chef-5.jpg",
       "chef_name": "Eva Chen",
-      "desc": "A creative, experimental chef who loves to push boundaries and explore new flavors. Always on the lookout for unconventional ingredients and techniques that can take dishes to the next level.",
+      "desc": "Chef Evan is an Italian chef with a deep knowledge of traditional Italian cuisine. He is known for his simple yet flavorful dishes that showcase the natural beauty of the ingredients. His dedication to quality and authenticity has earned him a loyal following of diners. He is an wonderful chef.",
       "years_of_experience": 5,
       "numbers_of_recipe": 30,
       "likes": 500
     },
     {
       "id": 6,
-      "chef_img": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "chef_img": "https://i.ibb.co/PWX9XmH/chef-6.jpg",
       "chef_name": "Frank Wang",
-      "desc": "A health-conscious chef who believes that food should be nourishing as well as delicious. Specializes in plant-based cuisine that emphasizes whole, nutrient-dense ingredients.",
+      "desc": "Chef Frank is a rising star in the culinary world, with a focus on plant-based cuisine. She is known for her innovative use of ingredients and her ability to create dishes that are both healthy and delicious. Her passion for food and sustainability has made her a role model for a new generation of chefs.",
       "years_of_experience": 3,
       "numbers_of_recipe": 20,
       "likes": 300
