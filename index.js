@@ -18,6 +18,13 @@ app.get("/chef", (req, res) => {
     res.send(chefData);
 })
 
+// chef info by id
+app.get("/chef/:id", (req, res) => {
+    const id = req.params.id;
+    const chefInfo = chefData.find((chef) => chef.id == id);
+    res.send(chefInfo);
+})
+
 // recipe info by chefs id
 app.get("/chef/:id", (req, res) => {
     const id = req.params.id;
